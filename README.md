@@ -1,4 +1,4 @@
-# Medical-Cost-Prediction-for-Insurance-Dataset
+# Medical-Cost-Prediction-from-Insurance-Dataset
 About Dataset :
 The dataset consists of some features about the individual. Our aim is to predict the Medical costs billed by the health insurance with the given features.
 
